@@ -1,9 +1,17 @@
-# pe-262-computer-programming-in-oil-and-gas
+# PE-262-Computer-Programming-in-Oil-and-Gas
+
+## Overview
+
 The repository contains files for the PE 262 course (Computer Programming in Oil and Gas).
 
 Python Progranmming Language was learnt throughtout the course.
 
 The course was facilitated by three lecturers from the Department of Petroleum Engineering, KNUST from June 2022 to August 2022.
+
+## Course Facilitators
+Dr. Yen Adams Sokama-Neuyam/ Dr. Caspar Daniel Adenutsi/ Dr. Jonathan Atuquaye Quaye
+
+## Content
 
 The six lecture notes comprises the following:
 
